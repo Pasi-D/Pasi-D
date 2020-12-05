@@ -27,3 +27,10 @@ I'm Pasindu Dilshan, a passionate full-stack developer from [Sri Lanka](https://
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xXZang3tsuXx&show_icons=true&theme=radical&line_height=27" alt="Pasindu's github stats" />
 </a>
+
+<br />
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xXZang3tsuXx&hide_title=true&theme=radical" alt="Pasindu's wakatime stats" />
+</a>
