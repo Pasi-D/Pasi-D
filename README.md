@@ -25,7 +25,7 @@ I'm Pasindu Dilshan, a passionate full-stack developer from [Sri Lanka](https://
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xXZang3tsuXx&show_icons=true&theme=radical&line_height=27" alt="Pasindu's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xXZang3tsuXx&show_icons=true&theme=radical&line_height=27&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Pasindu's github stats" />
 </a>
 
 <br />
