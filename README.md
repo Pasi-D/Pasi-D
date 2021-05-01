@@ -1,13 +1,13 @@
-### Hi there, I'm [Pasindu](https://github.com/xXZang3tsuXx) 👋
+### Hi there, I'm [Pasindu](https://github.com/Pasi-D) 👋
 
 <a href="https://www.linkedin.com/in/pasindu-dilshan/">
-  <img align="left" alt="Pasindu | Linkedin" src="https://raw.githubusercontent.com/xXZang3tsuXx/xXZang3tsuXx/master/assets/linkedin.svg">
+  <img align="left" alt="Pasindu | Linkedin" src="https://raw.githubusercontent.com/Pasi-D/Pasi-D/master/assets/linkedin.svg">
 </a>
 <a href="https://www.facebook.com/pasindudilshan.gunathilake">
-  <img align="left" alt="Pasindu | Facebook" src="https://raw.githubusercontent.com/xXZang3tsuXx/xXZang3tsuXx/master/assets/facebook.svg">
+  <img align="left" alt="Pasindu | Facebook" src="https://raw.githubusercontent.com/Pasi-D/Pasi-D/master/assets/facebook.svg">
 </a>
 <a href="mailto:Pasindu_dilshan@outlook.com">
-  <img align="left" alt="Pasindu | email" src="https://raw.githubusercontent.com/xXZang3tsuXx/xXZang3tsuXx/master/assets/email.svg">
+  <img align="left" alt="Pasindu | email" src="https://raw.githubusercontent.com/Pasi-D/Pasi-D/master/assets/email.svg">
 </a>
 
 <br />
@@ -25,12 +25,12 @@ I'm Pasindu Dilshan, a passionate full-stack developer from [Sri Lanka](https://
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xXZang3tsuXx&show_icons=true&theme=radical&line_height=27&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Pasindu's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pasi-D&show_icons=true&theme=radical&line_height=27&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Pasindu's github stats" />
 </a>
 
 <br />
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xXZang3tsuXx&hide_title=true&theme=radical" alt="Pasindu's wakatime stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pasi-D&hide_title=true&theme=radical" alt="Pasindu's wakatime stats" />
 </a>
