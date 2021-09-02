@@ -30,7 +30,3 @@ I'm Pasindu Dilshan, a passionate full-stack developer from [Sri Lanka](https://
 
 <br />
 <br />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pasi-D&hide_title=true&theme=radical" alt="Pasindu's wakatime stats" />
-</a>
